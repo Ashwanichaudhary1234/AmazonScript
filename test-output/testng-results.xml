@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-04T14:11:54 IST" name="Default suite" finished-at="2023-05-04T14:13:08 IST" duration-ms="74530">
+    <groups>
+    </groups>
+    <test started-at="2023-05-04T14:11:54 IST" name="Default test" finished-at="2023-05-04T14:13:08 IST" duration-ms="74530">
+      <class name="amazon.amazon_Test.Signin">
+        <test-method is-config="true" signature="Launch()[pri:0, instance:amazon.amazon_Test.Signin@1b11171f]" started-at="2023-05-04T14:11:49 IST" name="Launch" finished-at="2023-05-04T14:11:54 IST" duration-ms="4622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch -->
+        <test-method signature="Signin1()[pri:1, instance:amazon.amazon_Test.Signin@1b11171f]" started-at="2023-05-04T14:11:54 IST" name="Signin1" finished-at="2023-05-04T14:12:20 IST" duration-ms="25845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin1 -->
+        <test-method signature="deliver()[pri:2, instance:amazon.amazon_Test.Signin@1b11171f]" started-at="2023-05-04T14:12:20 IST" name="deliver" finished-at="2023-05-04T14:12:21 IST" duration-ms="1458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deliver -->
+        <test-method signature="Orders()[pri:3, instance:amazon.amazon_Test.Signin@1b11171f]" started-at="2023-05-04T14:12:21 IST" name="Orders" finished-at="2023-05-04T14:12:31 IST" duration-ms="9719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Orders -->
+        <test-method signature="Order1()[pri:4, instance:amazon.amazon_Test.Signin@1b11171f]" started-at="2023-05-04T14:12:31 IST" name="Order1" finished-at="2023-05-04T14:12:41 IST" duration-ms="10610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order1 -->
+        <test-method signature="Order2()[pri:5, instance:amazon.amazon_Test.Signin@1b11171f]" started-at="2023-05-04T14:12:41 IST" name="Order2" finished-at="2023-05-04T14:13:03 IST" duration-ms="21246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order2 -->
+        <test-method signature="Order3()[pri:6, instance:amazon.amazon_Test.Signin@1b11171f]" started-at="2023-05-04T14:13:03 IST" name="Order3" finished-at="2023-05-04T14:13:08 IST" duration-ms="5621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Order3 -->
+        <test-method is-config="true" signature="stop()[pri:0, instance:amazon.amazon_Test.Signin@1b11171f]" started-at="2023-05-04T14:13:08 IST" name="stop" finished-at="2023-05-04T14:13:09 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stop -->
+      </class> <!-- amazon.amazon_Test.Signin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
